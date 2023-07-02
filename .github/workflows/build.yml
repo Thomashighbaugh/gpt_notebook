@@ -2,9 +2,12 @@ name: Mdbook build
 
 on:
   push:
-    branches: ["main"]
+    branches: 
+      - "*"
   workflow_run:
-
+  pull_request:
+    branches:
+      - "*"
 jobs:
   build:
     name: build
