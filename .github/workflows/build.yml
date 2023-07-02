@@ -4,7 +4,6 @@ on:
   push:
     branches: 
       - "*"
-  workflow_run:
   pull_request:
     branches:
       - "*"
