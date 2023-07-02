@@ -3,6 +3,7 @@ name: Mdbook build
 on:
   push:
     branches: ["main"]
+  workflow_run:
 
 jobs:
   build:
