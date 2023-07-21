@@ -43,11 +43,12 @@ Resources related to Prompt Engineering from external sources I have used or eva
 
 Other than this one, of course.
 
-| Resource                                                                                       | Notes                                     |
-| ---------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| [Prompt In-Context Learning](https://github.com/EgoAlpha/prompt-in-context-learning/tree/main) | Numerous Useful Guides and Related Papers |
-| [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)         | Tons of useful links here                 |
-| [Awesome GPT Prompt Engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)   | Even more useful links                    |
+| Resource                                                                                       | Notes                                                               |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [Generative AI Resources](https://midas.umich.edu/gai-resources/)                              | University of Michigan curated list from a data science perspective |
+| [Prompt In-Context Learning](https://github.com/EgoAlpha/prompt-in-context-learning/tree/main) | Numerous Useful Guides and Related Papers                           |
+| [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)         | Tons of useful links here                                           |
+| [Awesome GPT Prompt Engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)   | Even more useful links                                              |
 
 ## Interesting Posts and One-Off Guides
 
