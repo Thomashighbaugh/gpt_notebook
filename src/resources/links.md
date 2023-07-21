@@ -1,23 +1,14 @@
-# Links
+# Prompt Engineering Links
 
-<!-- vim-markdown-toc GFM -->
+## AI Chatbot Links
 
-- [Prompt Engineering Learning Resources](#prompt-engineering-learning-resources)
-  - [Courses and Text-Based Guides](#courses-and-text-based-guides)
-  - [Video Courses](#video-courses)
-- [Lists of Useful Information](#lists-of-useful-information)
-- [Interesting Posts and One-Off Guides](#interesting-posts-and-one-off-guides)
-- [Related Tools](#related-tools)
-- [Online Text to Image Generators](#online-text-to-image-generators)
-  - [Stable Diffusion Related Resources](#stable-diffusion-related-resources)
-- [Interesting Articles and Posts](#interesting-articles-and-posts)
-- [API Key Pages](#api-key-pages)
+| Resource                           | Notes                                                                                              |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [ChatGPT](https://chat.openai.com) | The most common and easiest to extend the functionality of using browser extensions or userscripts |
+| [Claude](https://claude.ai)        | An "ethical" chatbot, with file upload functionality that makes it a useful option                 |
+| [Bard](https://bard.google.com/)   | Google's version also has upload functionality                                                     |
 
-<!-- vim-markdown-toc -->
-
-Resources related to Prompt Engineering from external sources I have used or evaluated in some way in the course of my learning process.
-
-## Prompt Engineering Learning Resources
+## Learning Resources Links
 
 ### Courses and Text-Based Guides
 
