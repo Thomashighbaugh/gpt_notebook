@@ -56,11 +56,17 @@
 </details>
 <!-- ----------------------------------------------------------------------- -->
 <details>
-  <summary>Principles and Concepts of Topics</summary>
+  <summary>Principles and Concepts Related to a Topic</summary>
   <blockquote>
     Explain the key concepts and principles of [TOPIC] in a way that is
     accessible to a non-expert audience.
   </blockquote>
+</details>
+<details>
+    <!-- ------------------------------------------------------------------ -->
+<summary> Balanced and Comprehensive Summary of a Topic and Related Context</summary>
+<hr/>
+<blockquote>Provide a comprehensive and balanced understanding of {{TOPIC}}, discussing its history, significance, practical applications, principles, limitations, ethical implications, key contributors, advancements, controversies, and various perspectives. Ensure the response is focused, relevant, and avoids redundancy. Use appropriate and non-colloquial language. Include relevant sources for further research.</blockquote>
 </details>
 <!-- ----------------------------------------------------------------------- -->
 <details>

@@ -15,6 +15,7 @@
 | Resource                                                                                 | Notes                                                                             |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | [Learn Promoting](https://learnprompting.org)                                            | More general and comprehensive course in a textual format, expansive and helpful  |
+| [Google's Generative AI Learning Path](https://www.cloudskillsboost.google/) | From Google, thus will tend to its products but otherwise great option |
 | [Prompt Engineering for Developers](https://learn.deeplearning.ai/)                      | A free course about Prompt Engineering specific to ChatGPT and developer-centric. |
 | [BrexHQ's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)        | GitHub Readme guide to the engineering of apt prompts                             |
 | [Prompt Engineering Guide](https://www.promptingguide.ai/)                               | A site like the first two that overviews Prompt Engineering Topics                |
@@ -51,6 +52,7 @@ Other than this one, of course.
 | [Imgur Post](https://imgur.com/a/TXYXMR9)                                                                                | Imgur Screenshots for World Building with chatGPT                                                                                                 |
 | [Book Writing](https://bit.ly/3qKf9LP)                                                                                   | Post about using GPT-4 to write a book                                                                                                            |
 | [Tips for Book Writing](https://bit.ly/3Xl5mZ6)                                                                          | Post with tips for writing a book                                                                                                                 |
+| [Prompt Injection](https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/)                         | Article about prompt injection attacks on prompt based language model AIs                                                                         |
 
 ## Related Tools
 
