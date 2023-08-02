@@ -11,6 +11,7 @@ sidebar-width = "250px"
 
 [output.html]
 default-theme = "ayu"
+no-section-label = true
 git-repository-url = "https://github.com/Thomashighbaugh/gpt_notes"
 additional-css = ["theme/pagetoc.css"]
 additional-js = ["theme/pagetoc.js"]
