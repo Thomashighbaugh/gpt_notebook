@@ -1,50 +1,6 @@
 # Basics
 
-<!-- vim-markdown-toc Marked -->
-
-- [1. Introduction](#1.-introduction)
-  - [What is AI?](#what-is-ai?)
-  - [Why Should I Care?](#why-should-i-care?)
-  - [Dyno Embeds](#dyno-embeds)
-- [2. Prompting](#2.-prompting)
-  - [Prompt Engineering](#prompt-engineering)
-- [3. Giving Instructions](#3.-giving-instructions)
-- [4. Role Prompting](#4.-role-prompting)
-  - [Example 1](#example-1)
-  - [Roles are Context](#roles-are-context)
-  - [Additional Examples](#additional-examples)
-- [5. Few Shot Prompting](#5.-few-shot-prompting)
-  - [More On Structure](#more-on-structure)
-  - [Variants of Shot Prompting](#variants-of-shot-prompting)
-- [6. Combining Techniques](#6.-combining-techniques)
-- [7. Formalizing Prompts](#7.-formalizing-prompts)
-  - [Parts of a Prompt](#parts-of-a-prompt)
-  - [Standard Prompts](#standard-prompts)
-- [8. Chatbot Basics](#8.-chatbot-basics)
-  - [Modifying Your Prompt](#modifying-your-prompt)
-    - [Style Guidance](#style-guidance)
-    - [Descriptors](#descriptors)
-  - [Priming](#priming)
-- [9. Pitfalls of LLMs](#9.-pitfalls-of-llms)
-  - [Citing Sources](#citing-sources)
-  - [Bias](#bias)
-  - [Hallucinations](#hallucinations)
-  - [Math](#math)
-  - [Prompt Hacking](#prompt-hacking)
-- [10. LLM Settings](#10.-llm-settings)
-  - [Temperature](#temperature)
-  - [Top P](#top-p)
-  - [Other Hyperparameters](#other-hyperparameters)
-  - [How These Affect Output](#how-these-affect-output)
-- [11. Understanding AI Minds](#11.-understanding-ai-minds)
-  - [Notes on AI Minds](#notes-on-ai-minds)
-- [12. Starting Your Journey](#12.-starting-your-journey)
-  - [Example Workflow](#example-workflow)
-    - [**Step 1**: Research](#**step-1**:-research)
-    - [**Step 2** : Experiment](#**step-2**-:-experiment)
-    - [**Step 3:** Get Feedback and Iterate](#**step-3:**-get-feedback-and-iterate)
-
-<!-- vim-markdown-toc -->
+<!-- toc -->
 
 This is the first section of notes from the [Learn Prompting](https://learnprompting.org) tutorials.
 
@@ -231,9 +187,8 @@ USER: I want you to act as an absurdist. The absurdist's sentences are meaningle
 ### Prompt Hacking
 
 - it is possible to trick the LLM into generating desirable content
-  - for an example [Dangerous Prompt](../../../resources/prompts/dangerous.md)
-    - will explain how to make various chemical weapons, drugs, weaponry, explosives, etc.
-    - found with quick Google search (scary)
+  - will explain how to make various chemical weapons, drugs, weaponry, explosives, etc.
+  - found with quick Google search (scary)
 
 ## 10. LLM Settings
 

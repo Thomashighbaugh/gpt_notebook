@@ -24,8 +24,6 @@ additional-js = ["theme/pagetoc.js"]
 enable = false
 level = 1
 
-[output.linkcheck]
-
 [output.html.playground]
 editable = true
 
