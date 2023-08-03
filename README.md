@@ -1,1 +1,5 @@
-# test
+# GPT Notebook
+
+As you can read on the site built from these notes with MDBook, [here](https://thomashighbaugh.github.io/gpt_notes/), this is my notes on all things relating to LLMs, Generative AI and Machine Learning, with the emphasis primarily (for the time being at least) focused mainly on the GPT family of LLMs such as ChatGPT and GPT-3 made available by OpenAI. Because the keeping of notes in Markdown format enables them to be shared with trivial additional effort using MDBook, Github Pages and Github Actions, they are available for browsing by the general public, which may find the resources section interesting as I have both useful links that I have come across along the way and a number of prompts templates that I use conveniently stored in codeblocks that are arranged by subject that anyone is free to take and use to their hearts content (attribution would be nice, but I would settle with just getting a star on the repo :wink: ).
+
+This notebook is coupled with and interrelated to my [GPT_Scripts](https://github.com/Thomashighbaugh/gpt_scripts) repository, where I have python scripts that interact with GPT-3 to achieve specific purposes available, so check out and star that repo too if you would be so kind.
