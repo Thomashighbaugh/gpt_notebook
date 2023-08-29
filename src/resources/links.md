@@ -15,7 +15,7 @@
 | Resource                                                                                 | Notes                                                                             |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | [Learn Promoting](https://learnprompting.org)                                            | More general and comprehensive course in a textual format, expansive and helpful  |
-| [Google's Generative AI Learning Path](https://www.cloudskillsboost.google/) | From Google, thus will tend to its products but otherwise great option |
+| [Google's Generative AI Learning Path](https://www.cloudskillsboost.google/)             | From Google, thus will tend to its products but otherwise great option            |
 | [Prompt Engineering for Developers](https://learn.deeplearning.ai/)                      | A free course about Prompt Engineering specific to ChatGPT and developer-centric. |
 | [BrexHQ's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)        | GitHub Readme guide to the engineering of apt prompts                             |
 | [Prompt Engineering Guide](https://www.promptingguide.ai/)                               | A site like the first two that overviews Prompt Engineering Topics                |
@@ -35,12 +35,13 @@
 
 Other than this one, of course.
 
-| Resource                                                                                       | Notes                                                               |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Generative AI Resources](https://midas.umich.edu/gai-resources/)                              | University of Michigan curated list from a data science perspective |
-| [Prompt In-Context Learning](https://github.com/EgoAlpha/prompt-in-context-learning/tree/main) | Numerous Useful Guides and Related Papers                           |
-| [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)         | Tons of useful links here                                           |
-| [Awesome GPT Prompt Engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)   | Even more useful links                                              |
+| Resource                                                                                                                                | Notes                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [Generative AI Resources](https://midas.umich.edu/gai-resources/)                                                                       | University of Michigan curated list from a data science perspective |
+| [Prompt In-Context Learning](https://github.com/EgoAlpha/prompt-in-context-learning/tree/main)                                          | Numerous Useful Guides and Related Papers                           |
+| [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)                                                  | Tons of useful links here                                           |
+| [Awesome GPT Prompt Engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)                                            | Even more useful links                                              |
+| [Prompt Engineering Resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) | Focused on text to image generation                                 |
 
 ## Interesting Posts and One-Off Guides
 
