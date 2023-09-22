@@ -22,6 +22,7 @@
 | [OpenAI's Cookbook](https://github.com/openai/openai-cookbook)                           | The Cookbook as a GitHub Repo                                                     |
 | [HuggingFace's Course Repository](https://github.com/huggingface/diffusion-models-class) | The repository for Hugging Face Diffusion Course                                  |
 | [ChatGPT Prompt Book](https://lifearchitect.ai/chatgpt-prompt-book/)                     | A book about prompting ChatGPT                                                    |
+| [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)                      | Awesome links in mindmap format to learn prompt engineering (and more)            |
 
 ### Video Courses
 
@@ -77,6 +78,7 @@ My primary interest here is finding AI text-to-image generators that will run re
 | [Mage Space](https://www.mage.space/)     | Also free, no account but models limited                                                                                             |
 | [O Criador](https://ocriador.app/create/) | Brazillian Option that is uncensored, unlimited. Needs account, lots of rough edges exist.                                           |
 | [Zoo](https://zoo.replicate.dev/)         | Enables accessing Dall-E and other interesting models                                                                                |
+| [Artbot](https://tinybots.net/artbot)     | huge array of options, no logins but slow                                                                                            |
 
 ### Stable Diffusion Related Resources
 
