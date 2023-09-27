@@ -23,6 +23,8 @@
 | [HuggingFace's Course Repository](https://github.com/huggingface/diffusion-models-class) | The repository for Hugging Face Diffusion Course                                  |
 | [ChatGPT Prompt Book](https://lifearchitect.ai/chatgpt-prompt-book/)                     | A book about prompting ChatGPT                                                    |
 | [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)                      | Awesome links in mindmap format to learn prompt engineering (and more)            |
+| [the Book](https://fedhoneypot.notion.site/25fdbdb69e9e44c6877d79e18336fe05?v=1d2bf4143680451986fd2836a04afbf4) | Notion Database about PE |
+
 
 ### Video Courses
 
